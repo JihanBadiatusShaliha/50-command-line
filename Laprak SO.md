@@ -2,7 +2,6 @@
 <h1>LAPORAN PRAKTIKUM INSTALASI UBUNTU</h1>
  <h2>PENDAHULUAN</h2>
  <h3>LATAR BELAKANG</h3>
-<p>Di dunia teknologi saat ini, menguasai berbagai jenis sistem operasi sangat penting. Salah satu sistem operasi yang banyak digunakan dan terkenal adalah Linux. Linux memiliki banyak versi atau distribusi, dan salah satunya adalah Ubuntu. Ubuntu dikenal mudah digunakan dan banyak dipilih oleh pengguna baru maupun profesional. Ubuntu 24.04 adalah versi terbaru dari Ubuntu yang menawarkan berbagai pembaruan dan perbaikan dari versi sebelumnya. Versi ini memberikan peningkatan performa dan fitur baru yang bisa membantu pengguna untuk bekerja lebih efisien.</p>
 <p>Di dunia teknologi saat ini, menguasai berbagai jenis sistem operasi sangat penting. Salah satu sistem operasi yang banyak digunakan dan terkenal adalah Linux. Linux memiliki banyak versi atau distribusi, dan salah satunya adalah Ubuntu. Ubuntu dikenal mudah digunakan dan banyak dipilih oleh pengguna baru maupun profesional. Ubuntu 24.04 adalah versi terbaru dari Ubuntu yang menawarkan berbagai pembaruan dan perbaikan dari versi sebelumnya. Versi ini memberikan peningkatan performa dan fitur baru yang bisa membantu pengguna untuk bekerja lebih efisien</p>
 <p>Praktikum ini bertujuan untuk mempelajari cara menginstal Ubuntu 24.04 di dalam VirtualBox. Dengan melakukan praktikum ini, kita akan belajar langkah-langkah instalasi, pengaturan, dan cara menggunakan Ubuntu di lingkungan virtual. Ini adalah keterampilan yang berguna, baik untuk keperluan belajar maupun untuk pekerjaan di bidang teknologi.</p>
 <h3>TUJUAN</h3>
@@ -116,5 +115,6 @@ Kinerja: Akses ke swap lebih lambat daripada RAM, tetapi membantu mencegah kehab
 <h2>PENUTUP</h2>
 <h3>KESIMPULAN</h3>
 Berdasarkan penjelasan di atas, sistem operasi adalah perangkat lunak yang mengelola dan mengaktifkan semua perangkat yang terhubung ke komputer, memungkinkan mereka untuk saling berkomunikasi. Sistem operasi berfungsi sebagai lapisan pertama yang dimuat ke memori saat komputer dinyalakan, sementara software lainnya dijalankan setelah sistem operasi aktif. Linux, sebagai sistem operasi open-source, menawarkan berbagai distribusi dengan fitur dan layanan yang berbeda. Salah satu distribusi populer, Ubuntu, dikembangkan untuk memenuhi kebutuhan bisnis dan pengguna umum. Ubuntu menawarkan kemudahan penggunaan dan berbagai fasilitas yang memudahkan penggunanya, menjadikannya pilihan yang disukai banyak orang untuk berbagai keperluan. <br/>
+
 
 

@@ -139,7 +139,18 @@ Melanjutkan proses yang terhenti (stopped) dan menjalankannya di latar belakang 
 <h2>46. df -i</h2>
 <img src = https://github.com/user-attachments/assets/a7bed5e7-4b79-4f83-aebe-c43e4cd7f86f width=500/> <br/>
 Menampilkan penggunaan inode di filesystem. Inode adalah struktur data yang menyimpan informasi tentang file dan direktori. df -i menunjukkan berapa banyak inode yang digunakan dan berapa banyak yang tersedia.
-
+<h2>47. last</h2>
+<img src = https://github.com/user-attachments/assets/dada95ff-d0c0-4772-889a-7ce5dcbe16a1 width=500/> <br/>
+Perintah last digunakan untuk menampilkan daftar login pengguna terakhir pada sistem. Perintah ini membaca dari file /var/log/wtmp, yang mencatat semua peristiwa login dan logout.
+<h2>48. w</h2>
+<img src = https://github.com/user-attachments/assets/2d39616d-0d57-40f8-a5f6-d836f4da63bd width=500/> <br/>
+Perintah w menunjukkan siapa yang sedang login di sistem dan apa yang sedang mereka lakukan. Ini memberikan informasi tentang terminal masing-masing pengguna, waktu login, waktu idle, serta perintah yang sedang dijalankan.
+<h2>49. user</h2>
+<img src = https://github.com/user-attachments/assets/1aa8c325-0f7b-4577-a973-7a31f8edd620 width=500/> <br/>
+Perintah users menampilkan daftar nama pengguna yang saat ini login ke sistem. Ini memberikan daftar sederhana pengguna aktif tanpa detail tambahan.
+<h2>50. mount</h2>
+<img src = https://github.com/user-attachments/assets/6700cff8-fdb3-4e01-b91c-d625487fa569 width=500/> <br/>
+Perintah mount digunakan untuk memasang filesystem ke sistem di titik mount yang ditentukan. Ini membuat filesystem dapat diakses di lokasi tertentu dalam hierarki direktori.
 
 
 
